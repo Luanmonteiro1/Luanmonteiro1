@@ -1,5 +1,5 @@
 ## Olá, Sou o Sávio Luan 👋
-Tenho 22 anos. Sou Desenvolvedor Web, atualmente estou me dedicando aos estudos na Kenzie Academy Brasil.
+Tenho 24 anos. Sou Desenvolvedor Web, atualmente estou me dedicando aos estudos na Kenzie Academy Brasil.
 Desde pequeno tive muito contato com a tecnologia, computador e vídeo game sempre foi minha paixão, onde eu ficava horas mexendo,
 mas somente em 2021 mudei de área, da logística para tecnologia, com intuito de aprender e me desenvolver cada vez mais.
 Através de projetos possuo domínio nas tecnologias em HTML5, CSS3,Javascript,Typescript, Git, Github;
